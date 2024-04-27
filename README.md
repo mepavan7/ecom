@@ -6,4 +6,4 @@ Java Script,
 Json ,
 Fetch API : Application Programming Interface and 
 We have to run this file in node.js terminal
-we can the out put on browser window
+we can the out put on browser window.
